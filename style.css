@@ -1,0 +1,18 @@
+body{
+    background: rgb(145,18,223);
+    background: linear-gradient(90deg, rgba(145,18,223,1) 0%, rgba(217,128,232,1) 100%);
+    font-family: 'Marck Script', cursive;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.out{
+    width: 60%;
+    margin: 15px auto;
+}
+
+.out video{
+    width: 100%;
+}
